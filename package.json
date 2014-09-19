@@ -1,0 +1,22 @@
+{
+  "name": "classname-audit",
+  "version": "0.0.1",
+  "description": "Node based cli tool to audit the classnames of a website via a crawl",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:andykirk/classname-audit.git"
+  },
+  "author": {
+    "name": "Andy Kirk",
+    "email": "andy.kirk@gridlight-design.co.uk",
+    "url": "http://www.gridlight-design.co.uk"
+  },
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "cheerio": "^0.16.0",
+    "simplecrawler": "^0.3.8"
+  },
+  "dependencies": {
+    "simplecrawler": "^0.3.8"
+  }
+}

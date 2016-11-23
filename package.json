@@ -17,6 +17,7 @@
     "simplecrawler": "^0.3.8"
   },
   "dependencies": {
-    "simplecrawler": "^0.3.8"
+    "cheerio": "^0.16.0",
+    "simplecrawler": "^0.3.14"
   }
 }

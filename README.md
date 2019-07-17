@@ -66,7 +66,7 @@ Firstly you'll need [Node](http://nodejs.org/) installed. There are loads of gui
 Once you've set that up, follow these steps:
 
 1. Clone this repo into a local folder.
-2. Open a command promt and `cd` to `YOUR_NEW_FOLDER`.
+2. Open a command prompt and `cd` to `YOUR_NEW_FOLDER`.
 3. Run `npm install` to install the dependency packages.
 2. Run `cd lib`.
 3. Run `node classname-audit.js http://www.your_url [your_config.js]`.
@@ -75,7 +75,7 @@ Note the [] indicate the argument is optional - don't include the braces.
 Config
 ------
 
-It's possible to specify a config file when running a command to set options such as URL ignore patterns or specisfying a context (see below).
+It's possible to specify a config file when running a command to set options such as URL ignore patterns or specifying a context (see below).
 The best way to create a config file is to make a copy of the `default_config.js` file and edit to your needs.
 Then you can include the path to it (relative to the `lib` directory) as the second argument when running the command.
 
